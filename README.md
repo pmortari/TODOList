@@ -1,2 +1,2 @@
 # TODOList
-Sample TODOList being used during a training session for new hires
+Sample TODOList being used during a training session for new hires - work in progress
